@@ -132,7 +132,7 @@
         </section>
 
         <div class="p-5 text-center">
-            <p class="text-warning">© Alan D Daniels</p>
+            <p class="text-warning">© P VENKATA NAVEEN</p>
         </div>
         
         <script src="index.js"></script>
